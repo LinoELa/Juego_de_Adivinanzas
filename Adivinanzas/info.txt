@@ -1,0 +1,5 @@
+Se llama ahorcado el  juego y es un juego de adivinanzas, donde tienes que adivinar 
+las palabras que son indicadas o se han puesto.
+
+#hay una cantidad de espacions en los donde cada palabra tiene una cantidad excacta de espacios 
+tienes que adivinar  las palabras que corresponden a cada cantidad e espacios.
